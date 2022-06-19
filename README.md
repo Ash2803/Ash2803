@@ -38,6 +38,11 @@ I've been learning to code for 5 months after switching careers. I started with 
         <td>Automation engineer school QA.GURU.</td>
         <td>2022</td>
     </tr>
+    <tr >
+        <td align="center"><a href="https://dvmn.org/" target="_blank" rel="noopener noreferrer"><img style="width:150px" src="images/devman.svg"></a></td>
+        <td>Python development</td>
+        <td>2022-2023</td>
+    </tr>
     <tr>
         <td align="center">
             <a href="#"><img title="Selenium" src="https://img.icons8.com/fluency/96/undefined/laptop-coding.png" width="50px"/></a>
@@ -50,7 +55,6 @@ I've been learning to code for 5 months after switching careers. I started with 
     </tr>
     <tr>
 </table>
-
 
 <a href="http://www.github.com/Ash2803"><img src="https://github-readme-stats.vercel.app/api?username=Ash2803&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Ash2803's GitHub stats" /></a>
 

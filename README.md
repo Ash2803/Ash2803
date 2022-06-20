@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&size=33&color=000000&background=FFFFFF&center=true&width=950&height=200&lines=Hello+!+My+name+is+Ashot!;I'm+interested+in+AQA+and+Python+development)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&size=33&color=000000&background=FFFFFF&center=true&width=950&height=200&lines=Hello+!+My+name+is+Ashot!;I'm+interested+in+AQA+and+Python+development)
 
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e47365dkicztdfw075usylvuxlxmr4d1pg6zmb6nff3&rid=giphy.gif&ct=s" width="100"/>

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&size=33&color=000000&background=FFFFFF&center=true&width=950&height=200&lines=Hello+!+My+name+is+Ashot!;I'm+interested+in+AQA+and+Python+development)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&size=33&color=000000&background=FFFFFF&center=true&width=950&height=200&lines=Hello+!+My+name+is+Ashot!;I'm+interested+in+AQA+and+Python+development)
 
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e47365dkicztdfw075usylvuxlxmr4d1pg6zmb6nff3&rid=giphy.gif&ct=s" width="100"/>
@@ -63,5 +63,8 @@ I've been learning to code for 5 months after switching careers. I started with 
 <a href="http://www.github.com/Ash2803"><img src="https://activity-graph.herokuapp.com/graph?username=Ash2803&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Ash2803" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash2803&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<<<<<<< HEAD
 
 ![](https://komarev.com/ghpvc/?username=Ash2803&color=dc143c)
+=======
+>>>>>>> 947de23b6383bb1da23a3d5de988ec3e657070f9
